@@ -1,0 +1,9 @@
+c:\users\alaiks\documents\visual studio 2012\Projects\HorlogeTP\HorlogeTP\bin\Debug\HorlogeTP.exe.config
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\bin\Debug\HorlogeTP.exe
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\bin\Debug\HorlogeTP.pdb
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.csprojResolveAssemblyReference.cache
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.Form1.resources
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.Properties.Resources.resources
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.csproj.GenerateResource.Cache
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.exe
+C:\Users\Alaiks\Documents\Visual Studio 2012\Projects\HorlogeTP\HorlogeTP\obj\Debug\HorlogeTP.pdb
